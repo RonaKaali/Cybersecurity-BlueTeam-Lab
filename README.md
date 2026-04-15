@@ -47,6 +47,13 @@ Mendeteksi dan merespon ancaman secara real-time.
 ---
 *“Security is not a product, but a process.”*
 
+### 📸 Evidence & Documentation
 
-![Detection Screenshot](screenshots/detect-bruteforce.png)
+#### 🛡️ System Hardening Index (Lynis)
+![Lynis Audit Result](lynis-audit-result.png)
 
+#### 🚨 Incident Detection (Brute Force Log)
+![Detection Screenshot](detect-bruteforce.png)
+
+#### ⚙️ Automation Script (AlexScan/AlexLab)
+![Automation Script](automation-script.png)
