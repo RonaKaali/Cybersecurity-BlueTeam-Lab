@@ -46,3 +46,7 @@ Mendeteksi dan merespon ancaman secara real-time.
 
 ---
 *“Security is not a product, but a process.”*
+
+
+![Detection Screenshot](screenshots/detect-bruteforce.png)
+
